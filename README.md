@@ -9,7 +9,7 @@ Sistema de gestión de tareas profesionales con características especifícas:
 
 ## Stack Tecnológico
 
-- node
+- node con javascript
 - express
 - dotenv
 - cors
